@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LimaCharlie84
 - 👀 I’m interested in all things to do with software engineering.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate with mid level coders to garner some experience and knowledge.
+- 🌱 I’m currently studying computer science
+- 💞️ I’m looking to collaborate with mid-level coders to garner some experience and knowledge.
 - 📫 How to reach me ...
 
 <!---
